@@ -1,5 +1,5 @@
 # Kaggle - Titanic: Machine Learning from Disaster
-#### This is a kaggle kernel for the `Titanic` dataset. For your convenience, please view it in [NbViewer](http://nbviewer.jupyter.org/github/massquantity/Kaggle-Titanic/blob/master/Titanic.ipynb)
+#### This is a kaggle kernel for the `Titanic` dataset.
 ------------------------
 
 From the competition [homepage](http://www.kaggle.com/c/titanic-gettingStarted).
